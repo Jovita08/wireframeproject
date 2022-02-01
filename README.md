@@ -12,7 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![output](j1.png)
+![output](j2.png)
+![output](j3.png)
 
 
 ## Result:
